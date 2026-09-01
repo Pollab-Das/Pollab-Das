@@ -92,29 +92,6 @@ Hello! I am a passionate Web Developer focused on building clean, user-friendly,
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pollab-Das&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pollab-Das&theme=default">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pollab-Das&theme=default" alt="Top Languages" />
-  </picture>
-
-<br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&theme=tokyo-night&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&theme=default&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&theme=default&hide_border=true" width="100%"/>
-  </picture>
-
-<br/><br/>
-
----
-
-
-<h2 align="center">📈 Contribution Activity Graph 📈</h2>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&custom_title=Pollab%20Das's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
-
-
 
 ---
 
