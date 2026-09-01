@@ -75,21 +75,14 @@ Hello! I am a passionate Web Developer focused on building clean, user-friendly,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pollab-Das&show_icons=true&count_private=true&theme=react&border_radius=10" alt="stats"/>
+
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Pollab-Das&count_private=true&theme=react&border_radius=10" alt="streak"/>
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pollab-Das&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&custom_title=Pollab%20Das's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
----
 
 ## 📌 Pinned Repositories
 
