@@ -1,4 +1,4 @@
-<!-- ব্যানার ইমেজ - "github banner.jpg" ফাইলটি আপনার রিপোজিটরিতে আপলোড করুন -->
+
 <img src="github banner.jpg" alt="Hello world" width="100%"/>
 
 <br/>
@@ -93,17 +93,17 @@ Hello! I am a passionate Web Developer focused on building clean, user-friendly,
 
 ## 📌 Pinned Repositories
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| [**StyleSphere**](https://github.com/Pollab-Das/-StyleSphere-) | A fashion lifestyle platform with modern UI/UX design. Features responsive layout and interactive elements. | `HTML` `CSS` `JavaScript` | [View Demo](YOUR_LIVE_LINK_HERE) |
-| [**Game**](https://github.com/Pollab-Das/Game) | An interactive web-based game with engaging gameplay mechanics. Built with vanilla JavaScript. | `HTML` `CSS` `JavaScript` | [View Demo](YOUR_LIVE_LINK_HERE) |
-| [**Programming-Her**](https://github.com/Pollab-Das/programing-her) | A project showcasing programming concepts with interactive examples and tutorials. | `HTML` `CSS` | [View Demo](YOUR_LIVE_LINK_HERE) |
+| Project | Description | Tech Stack | 
+|---------|-------------|------------|
+| [**StyleSphere**](https://github.com/Pollab-Das/-StyleSphere-) | A fashion lifestyle platform with modern UI/UX design. Features responsive layout and interactive elements. | `HTML` `CSS` `JavaScript` |
+| [**Game**](https://github.com/Pollab-Das/Game) | An interactive web-based game with engaging gameplay mechanics. Built with vanilla JavaScript. | `HTML` `CSS` `JavaScript` |
+| [**Programming-Her**](https://github.com/Pollab-Das/programing-her) | A project showcasing programming concepts with interactive examples and tutorials. | `HTML` `CSS` |
 
 ---
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="left">
   <ul style="text-align:left; display:inline-block;">
     <li>📚 Learning <strong>TypeScript</strong> & <strong>Advanced React Patterns</strong></li>
     <li>🛒 Building a <strong>Full-Stack E-Commerce</strong> platform</li>
@@ -112,21 +112,6 @@ Hello! I am a passionate Web Developer focused on building clean, user-friendly,
   </ul>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pollab-Das/Pollab-Das/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
----
-
-## 👀 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pollab-Das/count.svg" />
-</div>
 
 ---
 
