@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pollab Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh, crafting engaging user experiences.</h3>
 
-<!-- একটি আকর্ষণীয় ব্যানার ইমেজ যোগ করুন। উদাহরণস্বরূপ, একটি কোডিং-সংক্রান্ত ব্যাকগ্রাউন্ড ইমেজ বা আপনার তৈরি কোনো প্রজেক্টের স্ক্রিনশট ব্যবহার করতে পারেন। -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="banner" width="100%"/>
+  <img src="github banner.jpg" alt="banner" width="100%"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pollab-das&label=Profile%20views&color=0e75b6&style=flat" alt="pollab-das" /> </p>
