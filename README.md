@@ -6,7 +6,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pollab+Das;" />
 </h1>
----
 
 ## 🙋‍♂️ About Me
 Hello! I am a passionate Web Developer focused on building clean, user-friendly, and responsive web applications. I love coding, learning modern web technologies, and solving complex problems with software.
