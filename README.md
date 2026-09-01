@@ -6,24 +6,25 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pollab+Das;" />
 </h1>
+---
 
-<h3 align="center">A passionate frontend developer from Bangladesh, crafting engaging user experiences.</h3>
-
+## 🙋‍♂️ About Me
+Hello! I am a passionate Web Developer focused on building clean, user-friendly, and responsive web applications. I love coding, learning modern web technologies, and solving complex problems with software.
 <br/>
 
-<div align="center">
+<div align="left">
  
- 🔭 I’m currently working on **A Full-Stack E-Commerce Platform**
+ - 🔭 I’m currently working on **A Full-Stack E-Commerce Platform**
  
- 🌱 I’m currently learning **TypeScript, JavaScript & Advanced React Patterns**
+ - 🌱 I’m currently learning **TypeScript, JavaScript & Advanced React Patterns**
  
- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**
+ - 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**
  
- 📫 How to reach me: **pollabdasprince@gmail.com**
+ - 📫 How to reach me: **pollabdasprince@gmail.com**
  
- 📍 **Location:** Bangladesh
+ - 📍 **Location:** Bangladesh
  
- ⚡ Fun fact: **I love turning coffee into code!**
+ - ⚡ Fun fact: **I love turning coffee into code!**
  
 </div>
 
