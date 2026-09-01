@@ -1,79 +1,140 @@
-<h1 align="center">Hi 👋, I'm Pollab Das</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Pollab+Das;" />
+</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh, crafting engaging user experiences.</h3>
 
-<p align="center">
-  <img src="github banner.jpg" alt="banner" width="100%"/>
-</p>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pollab-das&label=Profile%20views&color=0e75b6&style=flat" alt="pollab-das" /> </p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **A Full-Stack E-Commerce Platform**
+ 
+ 🌱 I’m currently learning **TypeScript, JavaScript & Advanced React Patterns**
+ 
+ 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**
+ 
+ 📫 How to reach me: **pollabdasprince@gmail.com**
+ 
+ 📍 **Location:** Bangladesh
+ 
+ ⚡ Fun fact: **I love turning coffee into code!**
+ 
+</div>
 
----
+<div align="center"> 
+  <a href="mailto:pollabdasprince@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pollab-das" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/pollab.das" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pollab-Das" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-### 👨‍💻 About Me
+<hr/>
 
-I'm a frontend developer with a keen eye for design and a passion for building intuitive web applications. Currently, I'm expanding my skills into the backend to become a well-rounded full-stack developer.
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,figma,vscode" /><br>
+</div>
 
-*   🔭 I’m currently working on **A Full-Stack E-Commerce** platform.
-*   🌱 I’m currently learning **TypeScript**, **JavaScript**, and advanced **React** patterns.
-*   💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**.
-*   📫 How to reach me: **pollabdasprince@gmail.com**
-*   📍 **Location:** Bangladesh
+<br/>
+<hr/>
 
----
+<h2 align="center">📊 GitHub Analytics 📊</h2>
+<br/>
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Pollab-Das&show_icons=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Pollab-Das&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pollab-Das&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-### 🛠️ Languages and Tools
+<br/>
+<hr/>
 
-<!-- এখানে দক্ষতা আইকন আকারে দেখাতে হবে। -->
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <!-- আপনি আরও টুল যোগ করতে পারেন -->
-</p>
+<h2 align="center">📈 Contribution Activity Graph 📈</h2>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&custom_title=Pollab%20Das's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div>
 
----
+<br/>
+<hr/>
 
-### 🤝 Connect with Me
+<h2 align="center">🏆 GitHub Achievements & Stats 🏆</h2>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pollab-Das&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pollab-Das&theme=algolia" width="100%" />
+</div>
 
-<p align="left">
-<a href="https://linkedin.com/in/pollab-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pollab-das" height="30" width="40" /></a>
-<a href="https://fb.com/pollab.das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pollab.das" height="30" width="40" /></a>
-<!-- আপনার অন্যান্য সোশ্যাল লিংক এখানে যোগ করুন (যেমন: Twitter, Personal Website) -->
-</p>
+<br/>
+<hr/>
 
----
+<h2 align="center">📌 Featured Projects 📌</h2>
+<br/>
+<div align="center">
+  
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [**StyleSphere**](https://github.com/Pollab-Das/-StyleSphere-) | A fashion lifestyle platform with modern UI/UX design. Features responsive layout and interactive elements. | `HTML` `CSS` `JavaScript` | [View Demo](YOUR_LIVE_LINK_HERE) |
+| [**Game**](https://github.com/Pollab-Das/Game) | An interactive web-based game with engaging gameplay mechanics. Built with vanilla JavaScript. | `HTML` `CSS` `JavaScript` | [View Demo](YOUR_LIVE_LINK_HERE) |
+| [**Programming-Her**](https://github.com/Pollab-Das/programing-her) | A project showcasing programming concepts with interactive examples and tutorials. | `HTML` `CSS` | [View Demo](YOUR_LIVE_LINK_HERE) |
 
-### 📊 GitHub Stats
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pollab-das&show_icons=true&locale=en&layout=compact" alt="pollab-das" /></p>
+<br/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pollab-das&show_icons=true&locale=en" alt="pollab-das" /></p>
+<h2 align="center">🎯 Current Focus 🎯</h2>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>📚 Learning <strong>TypeScript</strong> & <strong>Advanced React Patterns</strong></li>
+          <li>🛒 Building a <strong>Full-Stack E-Commerce</strong> platform</li>
+          <li>🎨 Improving <strong>UI/UX Design</strong> skills</li>
+          <li>🌐 Exploring <strong>Next.js</strong> & <strong>Server Components</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pollab-das&" alt="pollab-das" /></p>
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pollab-Das/Pollab-Das/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-### 📌 Pinned Repositories
+<hr/>
 
-<!-- নিচে আপনার পছন্দের রিপোজিটরি পিন করুন। এখানে StyleSphere এবং Game-কে উদাহরণ হিসেবে দেখানো হলো। -->
+<div align="center">
+  <h2>👀 Visitor Count 👀</h2>
+  <br>
+  <img src="https://profile-counter.glitch.me/Pollab-Das/count.svg" />
+</div>
 
-#### [StyleSphere](https://github.com/Pollab-Das/-StyleSphere-)
-> **Description:** StyleSphere is a web application designed for [প্রজেক্টের সংক্ষিপ্ত বিবরণ দিন, যেমন: fashion enthusiasts to explore and share styles]. It features a clean UI and is built with modern web technologies.
-> *   **Live Link:** [আপনার লাইভ লিংক দিন, যদি থাকে]
-> *   **Tech Stack:** `HTML`, `CSS`, `JavaScript`
+<hr/>
 
-#### [Game](https://github.com/Pollab-Das/Game)
-> **Description:** A classic, interactive web-based game built with JavaScript. [গেমটি সম্পর্কে সংক্ষিপ্ত ধারণা দিন, যেমন: It's a fun, engaging project demonstrating core game logic.]
-> *   **Live Link:** [আপনার লাইভ লিংক দিন, যদি থাকে]
-> *   **Tech Stack:** `HTML`, `CSS`, `JavaScript`
-
-<!-- 
-#### [প্রকল্পের নাম ৩]
-> **Description:** [প্রকল্পের সংক্ষিপ্ত বিবরণ]
-> *   **Live Link:** [Live Link]
-> *   **Tech Stack:** `Tech1`, `Tech2`
--->
+<div align="center">
+  <h3>💻 Thanks for visiting my profile! Feel free to connect with me. 💻</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
