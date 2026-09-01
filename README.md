@@ -71,16 +71,38 @@ Hello! I am a passionate Web Developer focused on building clean, user-friendly,
 </p>
 
 ---
-
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
+  <h2><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%233B82F6" width="24" align="absmiddle"/> GitHub Analytics</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pollab-Das&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pollab-Das&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollab-Das&theme=default&hide_border=true" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pollab-Das&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pollab-Das&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pollab-Das&theme=default" alt="Profile Summary" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pollab-Das&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pollab-Das&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pollab-Das&theme=default" alt="Top Languages" />
+  </picture>
 
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Pollab-Das&count_private=true&theme=react&border_radius=10" alt="streak"/>
-  <br/>
+<br/><br/>
 
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&theme=tokyo-night&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&theme=default&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pollab-Das&theme=default&hide_border=true" width="100%"/>
+  </picture>
 
+<br/><br/>
 
 ---
 
