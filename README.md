@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack / Frontend Web Developer</h3>
 
 <p align="center">
-  📍 <strong>Location:</strong> Dhaka, Bangladesh | 📧 <strong>Email:</strong> your-email@example.com
+  📍 <strong>Location:</strong> Sylhet, Bangladesh | 📧 <strong>Email:</strong> pollabdasprince@gmail.com
 </p>
 
 <p align="center">
